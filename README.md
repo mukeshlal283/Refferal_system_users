@@ -1,6 +1,12 @@
 # Multi Referral System with reward point app for Users
 
-## The objective of this project is to design and develop a multi-referral system that rewards users for referring others using a hierarchical point distribution structure. Upon registration through a referral code, users (referrers) and up to 9 uplines will receive reward points. The system aims to drive user engagement, incentivize network growth, and provide transparent tracking of referrals and rewards. The platform will also include admin management for monitoring and ensuring smooth operation.
+The objective of this project is to design and develop a multi-referral system that rewards users for referring others using a hierarchical point distribution structure. Upon registration through a referral code, users (referrers) and up to 9 uplines will receive reward points. The system aims to drive user engagement, incentivize network growth, and provide transparent tracking of referrals and rewards. The platform will also include admin management for monitoring and ensuring smooth operation.
+
+## use the following referral codes to sign up- 
+xUZcbL, IpputA, Ki2CMm, dw56HO, 24LnXG
+
+
+after signup successfully your personal referral code generate that you can share and other can signup with your referral code
 
 ### Key features
 1. Referral Registration:
